@@ -1,0 +1,8 @@
+
+{
+  "name": "Bundespolizei Teamstadt Intranet",
+  "description": "Ein hochmodernes, sicheres Intranet-System für die Bundespolizei Teamstadt mit Bürgerservices, Einsatzdokumentation und integrierter Rechteverwaltung.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
